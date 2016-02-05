@@ -3,4 +3,4 @@ applications:
 - name: my-php-app
   memory: 128M
   instances: 1
-  host: demo-php-app
+  host: staging-php-app
