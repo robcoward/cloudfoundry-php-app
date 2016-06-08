@@ -1,6 +1,6 @@
 ---
 applications:
 - name: my-php-app
-  memory: 128M
+  memory: 256M
   instances: 1
   host: staging-php-app
