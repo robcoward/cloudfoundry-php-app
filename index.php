@@ -16,7 +16,7 @@
       break;
 
     default:
-      $environment = "CloudFoundry PHP Demo";
+      $environment = "PaaS PHP Demo";
   }
 
 ?>
