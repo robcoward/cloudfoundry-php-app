@@ -16,7 +16,7 @@
       break;
 
     default:
-      $environment = "PaaS PHP Demo";
+      $environment = "PaaS MegaNexus PHP Demo";
   }
 
 ?>
