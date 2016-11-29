@@ -16,7 +16,7 @@
       break;
 
     default:
-      $environment = "PaaS OpenShift PHP Demo";
+      $environment = "MyLifeDigital OpenShift PHP Demo";
   }
 
 ?>
