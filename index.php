@@ -22,7 +22,7 @@
 ?>
 <html>
 <head>
-<title>MyLifeDigital PHP PaaS Demo</title>
+<title>MyLifeDigital OpenShift PaaS Demo</title>
 </head>
 <body>
 <table width="100%">
